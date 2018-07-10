@@ -1,3 +1,8 @@
+     / __/__  ___ _____/ /__
+    _\ \/ _ \/ _ `/ __/  '_/
+   /___/ .__/\_,_/_/ /_/\_\   version 1.6.0
+      /_/
+
 scala> :paste  
 // Entering paste mode (ctrl-D to finish)
 
