@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 //commit to git
 create table sparkDfTest (a varchar(10),b int);
 //insert commands
+=======
+create table sparkDfTest (a varchar(10),b int);
+
+>>>>>>> 4531bac2c7675bb7082674cc8edc51831776e6dc
 insert into sparkDfTest values ('a',1);
 insert into sparkDfTest values ('b',2);
 insert into sparkDfTest values ('c',3);
