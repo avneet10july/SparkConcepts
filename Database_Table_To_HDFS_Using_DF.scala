@@ -1,6 +1,6 @@
 //commit to git
 create table sparkDfTest (a varchar(10),b int);
-//inserts
+//insert commands
 insert into sparkDfTest values ('a',1);
 insert into sparkDfTest values ('b',2);
 insert into sparkDfTest values ('c',3);
