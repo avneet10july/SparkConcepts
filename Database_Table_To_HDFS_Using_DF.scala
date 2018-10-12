@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+Hi, remote
 //commit to git
 create table sparkDfTest (a varchar(10),b int);
 //insert commands
